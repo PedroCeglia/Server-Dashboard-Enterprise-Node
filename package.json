@@ -1,0 +1,24 @@
+{
+  "name": "forecast-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroCeglia/dashboard-Node.git"
+  },
+  "author": "Pedro Ceglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroCeglia/dashboard-Node/issues"
+  },
+  "homepage": "https://github.com/PedroCeglia/dashboard-Node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1"
+  }
+}
