@@ -1,0 +1,33 @@
+/*emitente: {
+        type: String,
+        cnpj: String,
+        iE: String,
+        cep: String,
+        uf: String,
+        cMun: String,
+        cPais: String,
+        xCpl: String,
+        xLgr: String,
+        xMun: String,
+        xPais: String,
+        xNome: String
+    },
+    destinatario: {
+        type: String,
+        cnpj: String,
+        iE: String,
+        cep: String,
+        uf: String,
+        cMun: String,
+        cPais: String,
+        xCpl: String,
+        xLgr: String,
+        xMun: String,
+        xPais: String,
+        xNome: String
+    },
+    totalAmount: {
+        vProd: String,
+        vFrete: String,
+        vNF: String,
+    }, */
